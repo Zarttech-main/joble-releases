@@ -1,0 +1,19 @@
+{
+    "version": "0.1.1",
+    "notes": "Release notes: added an in app updater",
+    "pub_date": "2024-10-30T18:00:00Z",
+    "platforms": {
+        "linux-x86_64": {
+            "signature": "",
+            "url": ""
+        },
+        "windows-x86_64": {
+            "signature": "",
+            "url": ""
+        },
+        "darwin-x86_64": {
+            "signature": "",
+            "url": ""
+        }
+    }
+}
