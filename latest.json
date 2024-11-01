@@ -3,17 +3,9 @@
     "notes": "Release notes: added an in app updater, Fixed call issues",
     "pub_date": "2024-11-01T15:47:00Z",
     "platforms": {
-        "linux-x86_64": {
-            "signature": "",
-            "url": ""
-        },
         "windows-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbkFQRUkreE1zcEVFVDFmbWVoUURta3RTem5LZFB3RjBtUHpPTEsyUGh1eFRWQUZOZDdsUkh3Z0VWcXd5RUhyeDZYemJDZzZEVDEyait4WEQyVWJaMzdGdVUzUDBBSXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwMzY5Nzg0CWZpbGU6Sm9ibGVfMC4xLjdfeDY0X2VuLVVTLm1zaQpabUs4dWpDUmozM1ZsaXh5dkFFZHlSWC9lbE54STh6Y1l0ZlZTYnhpODkybXFnS2JLbjd2ZDhCMW9jMXVLcGZHdVptMzFaQWxMdUJZY1haOFNTMGxCQT09Cg==",
             "url": "https://storage.googleapis.com/jobchat/1730471389530-4d8d4035c0f99ffdd0ba2437bb92881d.msi?GoogleAccessId=myhives-bucket%40vocal-framework-390413.iam.gserviceaccount.com&Expires=1905345016&Signature=W%2F1SSzzOrQRDzIpmK2zRoCu7QQ5WvuPCi5GcyHf28xJ9%2By5lUOZi0MXfj1m1%2ByrFN93DNi%2Fk5YpByzOgHYkB5i5wY2mztRNtpmtubFEuKDkO3B8giP34MorttJvy0tKv1xgy2Qn68qWHyi6eQNvAuOpbPHJhhKv8wbQI2noQ4Q3PscbKuGjbDDnWkgZKDYWiB%2FX3RCkrDWhj18ZMudUVlltT%2BNIBvJODOdLu%2B3hYjIYcLRjzW7TKF5ONZ8GDEiCxONBEBUebIcJkgRSfjtcfSgILEhr3eyqR8vgDWhoI0pdrE91dlReM%2Bb8Hj4JE1s7rIxHLAeCkAtvhR8%2FA8IdiyQ%3D%3D"
-        },
-        "darwin-x86_64": {
-            "signature": "",
-            "url": ""
         }
     }
 }
