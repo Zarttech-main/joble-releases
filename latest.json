@@ -1,11 +1,11 @@
 {
-    "version": "0.1.7",
+    "version": "0.1.8",
     "notes": "Release notes: added an in app updater, Fixed call issues",
-    "pub_date": "2024-11-01T15:47:00Z",
+    "pub_date": "2024-11-01T19:42:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbkFQRUkreE1zcEVFVDFmbWVoUURta3RTem5LZFB3RjBtUHpPTEsyUGh1eFRWQUZOZDdsUkh3Z0VWcXd5RUhyeDZYemJDZzZEVDEyait4WEQyVWJaMzdGdVUzUDBBSXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwMzY5Nzg0CWZpbGU6Sm9ibGVfMC4xLjdfeDY0X2VuLVVTLm1zaQpabUs4dWpDUmozM1ZsaXh5dkFFZHlSWC9lbE54STh6Y1l0ZlZTYnhpODkybXFnS2JLbjd2ZDhCMW9jMXVLcGZHdVptMzFaQWxMdUJZY1haOFNTMGxCQT09Cg==",
-            "url": "https://storage.googleapis.com/jobchat/1730471389530-4d8d4035c0f99ffdd0ba2437bb92881d.msi?GoogleAccessId=myhives-bucket%40vocal-framework-390413.iam.gserviceaccount.com&Expires=1905345016&Signature=W%2F1SSzzOrQRDzIpmK2zRoCu7QQ5WvuPCi5GcyHf28xJ9%2By5lUOZi0MXfj1m1%2ByrFN93DNi%2Fk5YpByzOgHYkB5i5wY2mztRNtpmtubFEuKDkO3B8giP34MorttJvy0tKv1xgy2Qn68qWHyi6eQNvAuOpbPHJhhKv8wbQI2noQ4Q3PscbKuGjbDDnWkgZKDYWiB%2FX3RCkrDWhj18ZMudUVlltT%2BNIBvJODOdLu%2B3hYjIYcLRjzW7TKF5ONZ8GDEiCxONBEBUebIcJkgRSfjtcfSgILEhr3eyqR8vgDWhoI0pdrE91dlReM%2Bb8Hj4JE1s7rIxHLAeCkAtvhR8%2FA8IdiyQ%3D%3D"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbkFQRUkreE1zcE05Zm4xMmlUTG8vempkNFR4Y0hPazFnZ0VQZTFRbEE3bFpzMVkwZTkzbUhMd0dncFdJcEtGam8xekd0SDZ2TC8wYmRpNEtaV3VMUUYwaHhDQnRXR2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwNDg1OTkzCWZpbGU6Sm9ibGVfMC4xLjhfeDY0X2VuLVVTLm1zaQpLRnJGbE8zcWhSUHUzT1Q3WXFSWHlJUE12c2JtL21PVk0wN2pkY1V4cEthUFk5Qml3bDBNdmdtTzVrT0pOQlVvVjFTblpnbnVON0dMVkpjdS9tYVJDUT09Cg==",
+            "url": "https://storage.googleapis.com/jobchat/1730486471723-bb73e020bccc858ed773db61aef00234.msi?GoogleAccessId=myhives-bucket%40vocal-framework-390413.iam.gserviceaccount.com&Expires=1905360093&Signature=gCA7b9HKr83PI8%2FSFPUAnVyOPuVPSKxbrxY47dDwidbI169zBUenOKBh34TI9pvJrQBsXcIX8G%2B33AT%2BdyRE3K4f5DfxW7P4eziR8QFSR4pyKOtUsHgyhlOYqVL25U3HqPFgfxU0q26mn2oyn9%2FXnD2z9EOxLBIzx7gFDu7yp68FdIvdrYUC7j5C3pg7YA0x5ohHf4DCSXQQK9SK9SFGrKtMfofxHfgphZr9sfU5ZbDQS8wmJMZUzaTtLfIvEOMca3mAixInyXlRKUWxR8AnTf37qcAsn0tEkJQwmBXotgdXkHxX0YEGR2Om8FHVFnyXdxwBreve0QTwloBH7aSWwA%3D%3D"
         }
     }
 }
