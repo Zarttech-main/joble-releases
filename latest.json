@@ -1,7 +1,7 @@
 {
     "version": "0.1.7",
     "notes": "Release notes:\nadded an in app updater\nFixed call issues",
-    "pub_date": "2024-10-30T18:00:00Z",
+    "pub_date": "2024-11-01T15:47:00Z",
     "platforms": {
         "linux-x86_64": {
             "signature": "",
