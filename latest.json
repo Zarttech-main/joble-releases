@@ -1,6 +1,6 @@
 {
-    "version": "0.1.6",
-    "notes": "Release notes: added an in app updater",
+    "version": "0.1.7",
+    "notes": "Release notes:\nadded an in app updater\nFixed call issues",
     "pub_date": "2024-10-30T18:00:00Z",
     "platforms": {
         "linux-x86_64": {
@@ -8,8 +8,8 @@
             "url": ""
         },
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbkFQRUkreE1zcE96ZHZmRjBoc3loRXdJamp0K2VRaGtaejNFMGJjRGUrOXRKV1U4RStRTWIrSnF1S08rajNreTdBTlRVMVdxcCt1WDduMnhpeUN1bHpLd2hkSUM1VHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwMzA4Njk3CWZpbGU6Sm9ibGVfMC4xLjZfeDY0X2VuLVVTLm1zaQpIZm5mWEdtb1UraE9pNjJyWUVyTVQrSFRxbThoMDg0N0ZkQ2NhMUJMWGtJT2laNFFLSitJd1hyT24yNXdydlRCNno3SXhSbFlxcndKU3djOFMrSmJBUT09Cg==",
-            "url": "https://drive.google.com/file/d/1BiIySAbqiA2vPrZYC6b8FqpZLqcoZnJw/view?usp=sharing"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbkFQRUkreE1zcEVFVDFmbWVoUURta3RTem5LZFB3RjBtUHpPTEsyUGh1eFRWQUZOZDdsUkh3Z0VWcXd5RUhyeDZYemJDZzZEVDEyait4WEQyVWJaMzdGdVUzUDBBSXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwMzY5Nzg0CWZpbGU6Sm9ibGVfMC4xLjdfeDY0X2VuLVVTLm1zaQpabUs4dWpDUmozM1ZsaXh5dkFFZHlSWC9lbE54STh6Y1l0ZlZTYnhpODkybXFnS2JLbjd2ZDhCMW9jMXVLcGZHdVptMzFaQWxMdUJZY1haOFNTMGxCQT09Cg==",
+            "url": "https://storage.googleapis.com/jobchat/1730471389530-4d8d4035c0f99ffdd0ba2437bb92881d.msi?GoogleAccessId=myhives-bucket%40vocal-framework-390413.iam.gserviceaccount.com&Expires=1905345016&Signature=W%2F1SSzzOrQRDzIpmK2zRoCu7QQ5WvuPCi5GcyHf28xJ9%2By5lUOZi0MXfj1m1%2ByrFN93DNi%2Fk5YpByzOgHYkB5i5wY2mztRNtpmtubFEuKDkO3B8giP34MorttJvy0tKv1xgy2Qn68qWHyi6eQNvAuOpbPHJhhKv8wbQI2noQ4Q3PscbKuGjbDDnWkgZKDYWiB%2FX3RCkrDWhj18ZMudUVlltT%2BNIBvJODOdLu%2B3hYjIYcLRjzW7TKF5ONZ8GDEiCxONBEBUebIcJkgRSfjtcfSgILEhr3eyqR8vgDWhoI0pdrE91dlReM%2Bb8Hj4JE1s7rIxHLAeCkAtvhR8%2FA8IdiyQ%3D%3D"
         },
         "darwin-x86_64": {
             "signature": "",
