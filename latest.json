@@ -6,6 +6,9 @@
         "windows-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbkFQRUkreE1zcE05Zm4xMmlUTG8vempkNFR4Y0hPazFnZ0VQZTFRbEE3bFpzMVkwZTkzbUhMd0dncFdJcEtGam8xekd0SDZ2TC8wYmRpNEtaV3VMUUYwaHhDQnRXR2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwNDg1OTkzCWZpbGU6Sm9ibGVfMC4xLjhfeDY0X2VuLVVTLm1zaQpLRnJGbE8zcWhSUHUzT1Q3WXFSWHlJUE12c2JtL21PVk0wN2pkY1V4cEthUFk5Qml3bDBNdmdtTzVrT0pOQlVvVjFTblpnbnVON0dMVkpjdS9tYVJDUT09Cg==",
             "url": "https://storage.googleapis.com/jobchat/1730486471723-bb73e020bccc858ed773db61aef00234.msi?GoogleAccessId=myhives-bucket%40vocal-framework-390413.iam.gserviceaccount.com&Expires=1905360093&Signature=gCA7b9HKr83PI8%2FSFPUAnVyOPuVPSKxbrxY47dDwidbI169zBUenOKBh34TI9pvJrQBsXcIX8G%2B33AT%2BdyRE3K4f5DfxW7P4eziR8QFSR4pyKOtUsHgyhlOYqVL25U3HqPFgfxU0q26mn2oyn9%2FXnD2z9EOxLBIzx7gFDu7yp68FdIvdrYUC7j5C3pg7YA0x5ohHf4DCSXQQK9SK9SFGrKtMfofxHfgphZr9sfU5ZbDQS8wmJMZUzaTtLfIvEOMca3mAixInyXlRKUWxR8AnTf37qcAsn0tEkJQwmBXotgdXkHxX0YEGR2Om8FHVFnyXdxwBreve0QTwloBH7aSWwA%3D%3D"
+        },
+        "universal-apple-darwin": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbkFQRUkreE1zcEpwNDFnejVrYzYySHVoZmUxK0cyTy96YTlEbWUrWWViYk5ydlhpTThWZ3J4eTNNMEk5MVZTcXRyZ0xVS0FidFNXb0hvcUNTMWxTTWYzTm84MjhQOWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwNDkyNTAxCWZpbGU6Sm9ibGUuYXBwLnRhci5negp3ZWdqTU5iOGV1QlJkbUFPSHFyRmEwc1ZyUFVTcEh1NUptT2sxbWRUcVNra3FpMzRaOU9QVk1tRkRnMmZZRjJ4Z0lOSVlnNWJWb09iNi9FSHFwbTlBZz09Cg=="
         }
     }
 }
