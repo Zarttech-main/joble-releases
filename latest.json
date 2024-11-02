@@ -1,11 +1,11 @@
 {
-    "version": "0.1.8",
-    "notes": "Release notes: added an in app updater, Fixed call issues",
-    "pub_date": "2024-11-01T19:42:00Z",
+    "version": "0.1.9",
+    "notes": "Release notes: bug fixes",
+    "pub_date": "2024-11-02T16:26:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbkFQRUkreE1zcE05Zm4xMmlUTG8vempkNFR4Y0hPazFnZ0VQZTFRbEE3bFpzMVkwZTkzbUhMd0dncFdJcEtGam8xekd0SDZ2TC8wYmRpNEtaV3VMUUYwaHhDQnRXR2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwNDg1OTkzCWZpbGU6Sm9ibGVfMC4xLjhfeDY0X2VuLVVTLm1zaQpLRnJGbE8zcWhSUHUzT1Q3WXFSWHlJUE12c2JtL21PVk0wN2pkY1V4cEthUFk5Qml3bDBNdmdtTzVrT0pOQlVvVjFTblpnbnVON0dMVkpjdS9tYVJDUT09Cg==",
-            "url": "https://joble-releases.s3.us-west-2.amazonaws.com/1730486471723-bb73e020bccc858ed773db61aef00234.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbkFQRUkreE1zcE12WVdudWUyS0p3emdVTG12ME02cnNlUWQ5T2phcnl5b1NlZnE3eTBJQnNkbm5tQTNqNGxXdzlFeGNQSzdEeVdsZzFXNmg3RjR5aDdwTnJQMzRkTGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwNTYwMjExCWZpbGU6Sm9ibGVfMC4xLjlfeDY0X2VuLVVTLm1zaQorSGpWUmMyRFVPeWVJUm42NGNPYVlZbGROT0w5Y3krNUl4TWJxM3YzMWxzSXFMMWtacmdrb3ZJNmFrS0NXTnlHVkdnUUphd3NDOXNibUVSUkFmTTVBQT09Cg==",
+            "url": "https://storage.googleapis.com/jobchat/1730560317827-4008ee0f0d7374dffadebf3bde13a245.msi?GoogleAccessId=myhives-bucket%40vocal-framework-390413.iam.gserviceaccount.com&Expires=1905347536&Signature=QHim7W3LNr3cQz3ZvRbUBj4KbmXDOj8mXmSoHQFj1u%2BUe8EId%2FaehCCUAh3OxNe7DF8x0aDMmPiD8rGlzxZYLQOcCqHro6lYJ%2FbkNg2zznLxJk%2FsgYloUU46LJKTUVeG7wV33oFeC41VJXFQ0KrJYBtP3WiAppvUSOdGYLKvbBYgpE%2Fmp9xQDosgfkZfkxieJWaW5Zlk66hctvSSqAUiXlv0zo2N9D5O216zLZ5T3UgWZq%2BWOs5k%2BKNs%2FtVsKlxwAONJfvTFxioxJtDsqWkH6W%2FRPXDTJi64FBJfnAmPaPa%2Fd2FHbN5fiTb5%2FH3yd2iow5Mc9WTOtXFm%2BTRDX8DUWw%3D%3D"
         },
         "universal-apple-darwin": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbkFQRUkreE1zcEpwNDFnejVrYzYySHVoZmUxK0cyTy96YTlEbWUrWWViYk5ydlhpTThWZ3J4eTNNMEk5MVZTcXRyZ0xVS0FidFNXb0hvcUNTMWxTTWYzTm84MjhQOWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwNDkyNTAxCWZpbGU6Sm9ibGUuYXBwLnRhci5negp3ZWdqTU5iOGV1QlJkbUFPSHFyRmEwc1ZyUFVTcEh1NUptT2sxbWRUcVNra3FpMzRaOU9QVk1tRkRnMmZZRjJ4Z0lOSVlnNWJWb09iNi9FSHFwbTlBZz09Cg==",
