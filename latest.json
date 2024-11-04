@@ -8,7 +8,7 @@
             "url": "https://storage.googleapis.com/jobchat/1730560317827-4008ee0f0d7374dffadebf3bde13a245.msi?GoogleAccessId=myhives-bucket%40vocal-framework-390413.iam.gserviceaccount.com&Expires=1905347536&Signature=QHim7W3LNr3cQz3ZvRbUBj4KbmXDOj8mXmSoHQFj1u%2BUe8EId%2FaehCCUAh3OxNe7DF8x0aDMmPiD8rGlzxZYLQOcCqHro6lYJ%2FbkNg2zznLxJk%2FsgYloUU46LJKTUVeG7wV33oFeC41VJXFQ0KrJYBtP3WiAppvUSOdGYLKvbBYgpE%2Fmp9xQDosgfkZfkxieJWaW5Zlk66hctvSSqAUiXlv0zo2N9D5O216zLZ5T3UgWZq%2BWOs5k%2BKNs%2FtVsKlxwAONJfvTFxioxJtDsqWkH6W%2FRPXDTJi64FBJfnAmPaPa%2Fd2FHbN5fiTb5%2FH3yd2iow5Mc9WTOtXFm%2BTRDX8DUWw%3D%3D"
         },
         "universal-apple-darwin": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbkFQRUkreE1zcEpwNDFnejVrYzYySHVoZmUxK0cyTy96YTlEbWUrWWViYk5ydlhpTThWZ3J4eTNNMEk5MVZTcXRyZ0xVS0FidFNXb0hvcUNTMWxTTWYzTm84MjhQOWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwNDkyNTAxCWZpbGU6Sm9ibGUuYXBwLnRhci5negp3ZWdqTU5iOGV1QlJkbUFPSHFyRmEwc1ZyUFVTcEh1NUptT2sxbWRUcVNra3FpMzRaOU9QVk1tRkRnMmZZRjJ4Z0lOSVlnNWJWb09iNi9FSHFwbTlBZz09Cg==",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbkFQRUkreE1zcEkxZ3pmWmluc1hnWXF4M0dUOWkrTk9QeXcraFBDVUxQZ2Q1Q1hCaDdVZ2hEQzFVZzlWeHhRbC9OTUluSUpVNGtwdHdRTVpMcGZTNXR4U2c2a3c4MlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwNzIzNDE0CWZpbGU6Sm9ibGUuYXBwLnRhci5negpPK1YwYlhZVG4rRnZKNEpyY2t6QzMvRlRHVFM2QTg1WDkyYkpwODdCZ0duTFRkb2tFdE5XZFkvMHhZVUpqOUN5M1VrUFhJcmZQeVVnbDhhY1grdnNEdz09Cg==",
             "url": "https://joble-releases.s3.us-west-2.amazonaws.com/Joble.app.tar.gz"
         }
     }
