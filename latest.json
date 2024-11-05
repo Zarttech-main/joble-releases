@@ -14,6 +14,10 @@
         "darwin-aarch64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbkFQRUkreE1zcEkxZ3pmWmluc1hnWXF4M0dUOWkrTk9QeXcraFBDVUxQZ2Q1Q1hCaDdVZ2hEQzFVZzlWeHhRbC9OTUluSUpVNGtwdHdRTVpMcGZTNXR4U2c2a3c4MlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwNzIzNDE0CWZpbGU6Sm9ibGUuYXBwLnRhci5negpPK1YwYlhZVG4rRnZKNEpyY2t6QzMvRlRHVFM2QTg1WDkyYkpwODdCZ0duTFRkb2tFdE5XZFkvMHhZVUpqOUN5M1VrUFhJcmZQeVVnbDhhY1grdnNEdz09Cg==",
             "url": "https://joble-releases.s3.us-west-2.amazonaws.com/Joble.app.tar.gz"
+        },
+        "darwin-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbkFQRUkreE1zcEkxZ3pmWmluc1hnWXF4M0dUOWkrTk9QeXcraFBDVUxQZ2Q1Q1hCaDdVZ2hEQzFVZzlWeHhRbC9OTUluSUpVNGtwdHdRTVpMcGZTNXR4U2c2a3c4MlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwNzIzNDE0CWZpbGU6Sm9ibGUuYXBwLnRhci5negpPK1YwYlhZVG4rRnZKNEpyY2t6QzMvRlRHVFM2QTg1WDkyYkpwODdCZ0duTFRkb2tFdE5XZFkvMHhZVUpqOUN5M1VrUFhJcmZQeVVnbDhhY1grdnNEdz09Cg==",
+            "url": "https://joble-releases.s3.us-west-2.amazonaws.com/Joble.app.tar.gz"
         }
     }
 }
