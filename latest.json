@@ -13,7 +13,7 @@
         },
         "darwin-aarch64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbkFQRUkreE1zcE9NV1R4SHNJNndGb2RJeWxVQUp3QzFXbW9pT3JRRzFDaERoNnUySUt5azlCUlVvR2c1N08weGJOTGRQZktHMW1sWHBjMDNzdktHOEM0SFRib1hwRlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMxNDA0OTU2CWZpbGU6Sm9ibGUuYXBwLnRhci5negoxTUNnM0NOdERNOEMzOW40RVMxcmpXM3RDNU9GK3RaY0xxMlQ3RVBZSUZpM2JGUXRzaFJ6aEhQSG5kNGVXZHFqalhsMU0vWnRRQ0dqM3dDMjZReGpCZz09Cg==",
-            "url": "https://joble-releases.s3.us-west-2.amazonaws.com/Joble-aarch.app.tar.gz"
+            "url": "https://joble-releases.s3.us-west-2.amazonaws.com/Joble-aarch-latest.app.tar.gz"
         },
         "darwin-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbkFQRUkreE1zcE55UjcrNkFPTzROQmVvdE93QXNsbjlTM1pRTXFGdXBUOTVHWU85eDduemNWajFETm82TFRVOHRVdTJZTnJreXhLc05zK3d3MnFKTlUvQ1VuYmRMQkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMxMzk5MTE2CWZpbGU6Sm9ibGUuYXBwLnRhci5negpvVlJaWm51WktpY2lPbGkrR0FuS3NvTWQwSC9vVVIrNmhDZjBhVDRGc0RReEFJMDRDajlqSS9HRm5TVzM1aldvRUUzODdiYVdXWS9ocm1mc0lSeGxDQT09Cg==",
